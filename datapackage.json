@@ -244,6 +244,11 @@
       "schema": {
         "fields": [
           {
+            "name": "ID",
+            "type": "string",
+            "format": "default"
+          },
+          {
             "name": "Country",
             "type": "string",
             "format": "default"
