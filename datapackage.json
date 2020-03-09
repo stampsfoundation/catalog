@@ -3,7 +3,7 @@
   "resources": [
     {
       "name": "stamps-catalog",
-      "path": ["data/australia/stamps.csv"],
+      "path": ["data/aden/stamps.csv"],
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [
@@ -57,7 +57,7 @@
     },
     {
       "name": "sets-catalog",
-      "path": ["data/australia/sets.csv"],
+      "path": ["data/aden/sets.csv"],
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [
@@ -116,7 +116,7 @@
     },
     {
       "name": "covers-catalog",
-      "path": ["data/australia/covers.csv"],
+      "path": ["data/aden/covers.csv"],
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [
@@ -175,7 +175,7 @@
     },
     {
       "name": "sheets-catalog",
-      "path": ["data/australia/sheets.csv"],
+      "path": ["data/aden/sheets.csv"],
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [
