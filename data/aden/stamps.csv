@@ -1,3 +1,13 @@
-ID,Date,Face,Description,Color,Designer,Printing,Printer,Issue,Type
-1,1948-05,1½a.,Silver Wedding,Red,,Lithography,,,Postage
-2,1948-05,Rs10,Silver Wedding,Violet,,Lithography,,,Postage
+ID,Date,Face,Description,Color,Perf,Designer,Printing,Printer,Issue,Watermark
+1,1937-04-01,½a.,,light green,13 x 11_,,Engraving,De La Rue & Co.,1,Lying
+2,1937-04-01,9p.,,dark green,13 x 11_,,Engraving,De La Rue & Co.,1,Lying
+3,1937-04-01,1a.,,blackish brown,13 x 11_,,Engraving,De La Rue & Co.,1,Lying
+4,1937-04-01,2a.,,red,13 x 11_,,Engraving,De La Rue & Co.,1,Lying
+5,1937-04-01,2½a.,,blue,13 x 11_,,Engraving,De La Rue & Co.,1,Lying
+6,1937-04-01,3a.,,carmine rose,13 x 11_,,Engraving,De La Rue & Co.,1,Lying
+7,1937-04-01,3½a.,,greyish blue,13 x 11_,,Engraving,De La Rue & Co.,1,Lying
+8,1937-04-01,8a.,,purple,13 x 11_,,Engraving,De La Rue & Co.,1,Lying
+9,1937-04-01,1R,,brown,14 x 11_,,Engraving,De La Rue & Co.,1,Lying
+10,1937-04-01,2R,,orange yellow,15 x 11_,,Engraving,De La Rue & Co.,1,Lying
+11,1937-04-01,5R,,violet,16 x 11_,,Engraving,De La Rue & Co.,1,Lying
+12,1937-04-01,10R,,olive green,17 x 11_,,Engraving,De La Rue & Co.,1,Lying
