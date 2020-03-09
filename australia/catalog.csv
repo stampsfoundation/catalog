@@ -1,0 +1,4 @@
+country,period,parent,fromYear,toYear,fromDate,toDate
+"Australia","Commonwealth",,1913,,1913-1-1,
+"Christmas Island",,"Australia",1926,,1926-1-1,
+"New Zealand","Commonwealth",,1894,,1894-1-1,

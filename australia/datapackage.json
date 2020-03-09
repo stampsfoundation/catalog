@@ -1,0 +1,80 @@
+{
+  "profile": "tabular-data-package",
+  "resources": [
+    {
+      "name": "catalog",
+      "path": "catalog.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "number",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "year",
+            "type": "year",
+            "format": "default"
+          },
+          {
+            "name": "date",
+            "type": "date",
+            "format": "default"
+          },
+          {
+            "name": "denomination",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "issue",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "description",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "color",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "designer",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "printing",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "format",
+            "type": "string",
+            "format": "default"
+          }
+        ]
+      }
+    }
+  ],
+  "name": "catalog",
+  "title": "Catalog",
+  "homepage": "https://stamps.foundation/catalog",
+  "contributors": [
+    {
+      "title": "Sharad Kumar",
+      "role": "author"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "CC0-1.0",
+      "title": "CC0 1.0",
+      "path": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ]
+}
