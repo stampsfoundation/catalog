@@ -2,8 +2,185 @@
   "profile": "tabular-data-package",
   "resources": [
     {
-      "name": "catalog",
-      "path": "https://raw.githubusercontent.com/stampsfoundation/catalog/master/data/stamps.csv",
+      "name": "stamps-catalog",
+      "path": ["data/australia/stamps.csv"],
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "number",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "year",
+            "type": "year",
+            "format": "default"
+          },
+          {
+            "name": "date",
+            "type": "date",
+            "format": "default"
+          },
+          {
+            "name": "denomination",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "issue",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "description",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "color",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "designer",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "printing",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "format",
+            "type": "string",
+            "format": "default"
+          }
+        ]
+      }
+    },
+    {
+      "name": "sets-catalog",
+      "path": ["data/australia/sets.csv"],
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "number",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "year",
+            "type": "year",
+            "format": "default"
+          },
+          {
+            "name": "date",
+            "type": "date",
+            "format": "default"
+          },
+          {
+            "name": "denomination",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "issue",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "description",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "color",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "designer",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "printing",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "format",
+            "type": "string",
+            "format": "default"
+          }
+        ]
+      }
+    },
+    {
+      "name": "covers-catalog",
+      "path": ["data/australia/covers.csv"],
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "number",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "year",
+            "type": "year",
+            "format": "default"
+          },
+          {
+            "name": "date",
+            "type": "date",
+            "format": "default"
+          },
+          {
+            "name": "denomination",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "issue",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "description",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "color",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "designer",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "printing",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "format",
+            "type": "string",
+            "format": "default"
+          }
+        ]
+      }
+    },
+    {
+      "name": "sheets-catalog",
+      "path": ["data/australia/sheets.csv"],
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [
@@ -115,8 +292,8 @@
     }
   ],
   "name": "catalog",
-  "title": "Catalog",
-  "homepage": "https://stamps.foundation/catalog",
+  "title": "Catalog of ...",
+  "homepage": "https://stamps.foundation/catalog/template",
   "contributors": [
     {
       "title": "Sharad Kumar",
