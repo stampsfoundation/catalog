@@ -3,7 +3,7 @@
   "resources": [
     {
       "name": "catalog",
-      "path": "https://raw.githubusercontent.com/stampsfoundation/catalog/master/catalog.csv",
+      "path": "https://raw.githubusercontent.com/stampsfoundation/catalog/master/data/stamps.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [
@@ -62,7 +62,7 @@
     },
     {
       "name": "countries",
-      "path": "https://raw.githubusercontent.com/stampsfoundation/catalog/master/country.csv",
+      "path": "https://raw.githubusercontent.com/stampsfoundation/catalog/master/data/country.csv",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [
