@@ -281,10 +281,10 @@
         ],
         "foreignKeys": [
           {
-            "fields": "parent",
+            "fields": "Related",
             "reference": {
               "resource": "",
-              "fields": "country"
+              "fields": "Country"
             }
           }
         ]
