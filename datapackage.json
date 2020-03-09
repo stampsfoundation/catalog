@@ -53,7 +53,7 @@
             "format": "default"
           },
           {
-            "name": "Type",
+            "name": "Watermark",
             "type": "string",
             "format": "default"
           }
