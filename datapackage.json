@@ -8,52 +8,47 @@
       "schema": {
         "fields": [
           {
-            "name": "number",
-            "type": "integer",
+            "name": "ID",
+            "type": "string",
             "format": "default"
-          },
+          }
           {
-            "name": "year",
-            "type": "year",
-            "format": "default"
-          },
-          {
-            "name": "date",
+            "name": "Date",
             "type": "date",
             "format": "default"
           },
           {
-            "name": "denomination",
+            "name": "Denomination",
             "type": "string",
             "format": "default"
           },
           {
-            "name": "issue",
+            "name": "Issue",
             "type": "string",
             "format": "default"
           },
           {
-            "name": "description",
+            "name": "Description",
             "type": "string",
             "format": "default"
           },
           {
-            "name": "color",
+            "name": "Color",
             "type": "string",
             "format": "default"
           },
           {
-            "name": "designer",
+            "name": "Designer",
             "type": "string",
             "format": "default"
           },
           {
-            "name": "printing",
+            "name": "Printing",
             "type": "string",
             "format": "default"
           },
           {
-            "name": "format",
+            "name": "Type",
             "type": "string",
             "format": "default"
           }
