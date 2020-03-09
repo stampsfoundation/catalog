@@ -1,16 +1,29 @@
 ID,Date,Face,Description,Color,Perf,Designer,Printing,Printer,Issue,Wmk
-1,1937-04-01,½a.,,light green,13 x 11½,,Engraving,De La Rue & Co.,1,Lying
-2,1937-04-01,9p.,,dark green,13 x 11½,,Engraving,De La Rue & Co.,1,Lying
-3,1937-04-01,1a.,,blackish brown,13 x 11½,,Engraving,De La Rue & Co.,1,Lying
-4,1937-04-01,2a.,,red,13 x 11½,,Engraving,De La Rue & Co.,1,Lying
-5,1937-04-01,2½a.,,blue,13 x 11½,,Engraving,De La Rue & Co.,1,Lying
-6,1937-04-01,3a.,,carmine rose,13 x 11½,,Engraving,De La Rue & Co.,1,Lying
-7,1937-04-01,3½a.,,greyish blue,13 x 11½,,Engraving,De La Rue & Co.,1,Lying
-8,1937-04-01,8a.,,purple,13 x 11½,,Engraving,De La Rue & Co.,1,Lying
-9,1937-04-01,1R,,brown,13 x 11½,,Engraving,De La Rue & Co.,1,Lying
-10,1937-04-01,2R,,orange yellow,13 x 11½,,Engraving,De La Rue & Co.,1,Lying
-11,1937-04-01,5R,,violet,13 x 11½,,Engraving,De La Rue & Co.,1,Lying
-12,1937-04-01,10R,,olive green,13 x 11½,,Engraving,De La Rue & Co.,1,Lying
+1,1937-04-01,½a.,Dhow,light green,13 x 11½,,Engraving,De La Rue & Co.,1,Lying
+2,1937-04-01,9p.,Dhow,dark green,13 x 11½,,Engraving,De La Rue & Co.,1,Lying
+3,1937-04-01,1a.,Dhow,blackish brown,13 x 11½,,Engraving,De La Rue & Co.,1,Lying
+4,1937-04-01,2a.,Dhow,red,13 x 11½,,Engraving,De La Rue & Co.,1,Lying
+5,1937-04-01,2½a.,Dhow,blue,13 x 11½,,Engraving,De La Rue & Co.,1,Lying
+6,1937-04-01,3a.,Dhow,carmine rose,13 x 11½,,Engraving,De La Rue & Co.,1,Lying
+7,1937-04-01,3½a.,Dhow,greyish blue,13 x 11½,,Engraving,De La Rue & Co.,1,Lying
+8,1937-04-01,8a.,Dhow,purple,13 x 11½,,Engraving,De La Rue & Co.,1,Lying
+9,1937-04-01,1R,Dhow,brown,13 x 11½,,Engraving,De La Rue & Co.,1,Lying
+10,1937-04-01,2R,Dhow,orange yellow,13 x 11½,,Engraving,De La Rue & Co.,1,Lying
+11,1937-04-01,5R,Dhow,violet,13 x 11½,,Engraving,De La Rue & Co.,1,Lying
+12,1937-04-01,10R,Dhow,olive green,13 x 11½,,Engraving,De La Rue & Co.,1,Lying
 13,1937-05-12,1a.,Coronation of George VI and Elizabeth,blackish brown,13½ x 14,,Engraving,De La Rue & Co.,2,Lying
 14,1937-05-12,2½a.,Coronation of George VI and Elizabeth,blue,13½ x 14,,Engraving,De La Rue & Co.,2,Lying
 15,1937-05-12,3½a.,Coronation of George VI and Elizabeth,greyish blue,13½ x 14,,Engraving,De La Rue & Co.,2,Lying
+16,1939,½A,George VI and Scenes,green,12½,,Engraving,De La Rue & Co.,,Lying
+17,1939,3/4a.,George VI and Scenes,reddish brown,12½,,Engraving,De La Rue & Co.,,Lying
+18,1939,1a.,George VI and Scenes,light blue,12½,,Engraving,De La Rue & Co.,,Lying
+19,1939,1½a.,George VI and Scenes,red,12½,,Engraving,De La Rue & Co.,,Lying
+20,1939,2a,George VI and Scenes,dark brown,12½,,Engraving,De La Rue & Co.,,Lying
+21,1939,2½a,George VI and Scenes,ultramarine,12½,,Engraving,De La Rue & Co.,,Lying
+22,1939,3a,George VI and Scenes,carmine/dark brown,12½,,Engraving,De La Rue & Co.,,Lying
+23,1939,8a,George VI and Scenes,orange,12½,,Engraving,De La Rue & Co.,,Lying
+24,1939,14a,George VI and Scenes,light blue/brownish black,12½,,Engraving,De La Rue & Co.,,Lying
+25,1937,1R,George VI and Scenes,light green,12½,,Engraving,De La Rue & Co.,,Lying
+26,1939,2R,George VI and Scenes,reddish purple/bluish black,12½,,Engraving,De La Rue & Co.,,Lying
+27,1939,5R,George VI and Scenes,olive/brown,12½,,Engraving,De La Rue & Co.,,Lying
+28,1939,10R,George VI and Scenes,violet/sepia,12½,,Engraving,De La Rue & Co.,,Lying
