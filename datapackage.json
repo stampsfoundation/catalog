@@ -58,7 +58,7 @@
             "format": "default"
           },
           {
-            "name": "Watermark",
+            "name": "Wmk",
             "type": "string",
             "format": "default"
           }
