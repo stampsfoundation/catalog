@@ -244,37 +244,37 @@
       "schema": {
         "fields": [
           {
-            "name": "country",
+            "name": "Country",
             "type": "string",
             "format": "default"
           },
           {
-            "name": "period",
+            "name": "Period",
             "type": "string",
             "format": "default"
           },
           {
-            "name": "parent",
+            "name": "Related",
             "type": "string",
             "format": "default"
           },
           {
-            "name": "fromYear",
+            "name": "FromYear",
             "type": "year",
             "format": "default"
           },
           {
-            "name": "toYear",
+            "name": "ToYear",
             "type": "year",
             "format": "default"
           },
           {
-            "name": "fromDate",
+            "name": "FromDate",
             "type": "date",
             "format": "default"
           },
           {
-            "name": "toDate",
+            "name": "ToDate",
             "type": "date",
             "format": "default"
           }
