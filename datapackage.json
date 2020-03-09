@@ -33,6 +33,11 @@
             "format": "default"
           },
           {
+            "name": "Perf",
+            "type": "string",
+            "format": "default"
+          },
+          {
             "name": "Designer",
             "type": "string",
             "format": "default"
