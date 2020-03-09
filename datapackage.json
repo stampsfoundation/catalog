@@ -18,12 +18,7 @@
             "format": "any"
           },
           {
-            "name": "Denomination",
-            "type": "string",
-            "format": "default"
-          },
-          {
-            "name": "Issue",
+            "name": "Face",
             "type": "string",
             "format": "default"
           },
@@ -44,6 +39,16 @@
           },
           {
             "name": "Printing",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Printer",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Issue",
             "type": "string",
             "format": "default"
           },

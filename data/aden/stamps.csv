@@ -1,3 +1,3 @@
-ID,Date,Denomination,Issue,Description,Color,Designer,Printing,Type
-1,1948-05,1½a.,Silver Wedding,Silver Wedding,Red,Unknown designer,Lithography,Postage
-2,1948-05,Rs10,Silver Wedding,Silver Wedding,Violet,Unknown designer,Lithography,Postage
+ID,Date,Face,Description,Color,Designer,Printing,Printer,Issue,Type
+1,1948-05,1½a.,Silver Wedding,Red,,Lithography,,,Postage
+2,1948-05,Rs10,Silver Wedding,Violet,,Lithography,,,Postage
