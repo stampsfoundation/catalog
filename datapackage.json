@@ -249,11 +249,6 @@
             "format": "default"
           },
           {
-            "name": "Period",
-            "type": "string",
-            "format": "default"
-          },
-          {
             "name": "Related",
             "type": "string",
             "format": "default"
