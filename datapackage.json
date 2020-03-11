@@ -13,6 +13,16 @@
             "format": "default"
           },
           {
+            "name": "Format",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Purpose",
+            "type": "string",
+            "format": "default"
+          },
+          {
             "name": "Date",
             "type": "date",
             "format": "any"
@@ -61,6 +71,26 @@
             "name": "Wmk",
             "type": "string",
             "format": "default"
+          },
+          {
+            "name": "Gum",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Qty",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "SizeW",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "SizeH",
+            "type": "integer",
+            "format": "default"
           }
         ]
       }
@@ -68,124 +98,6 @@
     {
       "name": "sets-catalog",
       "path": ["data/aden/sets.csv"],
-      "profile": "tabular-data-resource",
-      "schema": {
-        "fields": [
-          {
-            "name": "number",
-            "type": "integer",
-            "format": "default"
-          },
-          {
-            "name": "year",
-            "type": "year",
-            "format": "default"
-          },
-          {
-            "name": "date",
-            "type": "date",
-            "format": "default"
-          },
-          {
-            "name": "denomination",
-            "type": "string",
-            "format": "default"
-          },
-          {
-            "name": "issue",
-            "type": "string",
-            "format": "default"
-          },
-          {
-            "name": "description",
-            "type": "string",
-            "format": "default"
-          },
-          {
-            "name": "color",
-            "type": "string",
-            "format": "default"
-          },
-          {
-            "name": "designer",
-            "type": "string",
-            "format": "default"
-          },
-          {
-            "name": "printing",
-            "type": "string",
-            "format": "default"
-          },
-          {
-            "name": "format",
-            "type": "string",
-            "format": "default"
-          }
-        ]
-      }
-    },
-    {
-      "name": "covers-catalog",
-      "path": ["data/aden/covers.csv"],
-      "profile": "tabular-data-resource",
-      "schema": {
-        "fields": [
-          {
-            "name": "number",
-            "type": "integer",
-            "format": "default"
-          },
-          {
-            "name": "year",
-            "type": "year",
-            "format": "default"
-          },
-          {
-            "name": "date",
-            "type": "date",
-            "format": "default"
-          },
-          {
-            "name": "denomination",
-            "type": "string",
-            "format": "default"
-          },
-          {
-            "name": "issue",
-            "type": "string",
-            "format": "default"
-          },
-          {
-            "name": "description",
-            "type": "string",
-            "format": "default"
-          },
-          {
-            "name": "color",
-            "type": "string",
-            "format": "default"
-          },
-          {
-            "name": "designer",
-            "type": "string",
-            "format": "default"
-          },
-          {
-            "name": "printing",
-            "type": "string",
-            "format": "default"
-          },
-          {
-            "name": "format",
-            "type": "string",
-            "format": "default"
-          }
-        ]
-      }
-    },
-    {
-      "name": "sheets-catalog",
-      "path": ["data/aden/sheets.csv"],
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [
